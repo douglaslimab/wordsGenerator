@@ -1,5 +1,10 @@
 import enchant
 import time
+from tkinter import *
+
+window = Tk()
+
+window.mainloop()
 
 l0 = str(input('Enter the 1st letter.'))
 l1 = str(input('Enter the 2nd letter.'))
